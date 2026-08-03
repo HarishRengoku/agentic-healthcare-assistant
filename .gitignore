@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+*.log
+voice_interactions.json
+.DS_Store

@@ -1,0 +1,13 @@
+langchain-chroma==0.2.6
+langchain-core==0.3.76
+langchain-ollama==0.3.8
+duckduckgo-search==8.1.1
+requests==2.32.5
+SpeechRecognition==3.14.4
+pyttsx3==2.99
+PyAudio==0.2.14
+numpy==2.3.3
+nltk==3.9.2
+rouge-score==0.1.2
+transformers==4.57.3
+torch==2.9.1
